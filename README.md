@@ -4,6 +4,10 @@
 A responsive landing page for the Creative Commons Global Summit 2015. This project replicates the official CC Summit design with a focus on openness, sharing, and global collaboration.
 
 ## 🛠️ Built With
+HTML, CSS and bootstrap
+
+### Link
+https://wilfriedtchins-code.github.io/creative-gobla-summit/
 
 ### Tech Stack
 HTML,CSS,Bootstrap and GitHub.
@@ -38,5 +42,3 @@ Clone this repository to your desired folder:
 git clone https://github.com/wilfriedtchins-code/creative-gobla-summit.git
 link: https://wilfriedtchins-code.github.io/creative-gobla-summit/
 
-### Link
-https://wilfriedtchins-code.github.io/creative-gobla-summit/
